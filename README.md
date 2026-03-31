@@ -7,7 +7,7 @@ Un simulator 3D în care gestionezi un tren și îndeplinești task-uri pentru a
 ## 🎥 Demo
 
 <p align="center">
-  <img src="train_demo.gif" width="600">
+  <img src="trainSim.gif" width="600">
 </p>
 
 ---
@@ -15,7 +15,7 @@ Un simulator 3D în care gestionezi un tren și îndeplinești task-uri pentru a
 ## 🖼️ Screenshot
 
 <p align="center">
-  <img src="train_screenshot.png" width="600">
+  <img src="TrainSim.png" width="600">
 </p>
 
 ---
